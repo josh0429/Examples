@@ -1,0 +1,2 @@
+# Exercises for "Data analysis recipes: Fitting a model to data"
+I try to do the exercises in the wonderful write-up by David Hogg, Jo Bovy, and Dustin Lang's ["Data analysis recipes: Fitting a model to data"](http://arxiv.org/abs/1008.4686) in the form of Jupyter notebooks. For the MCMC sampling, we use the Python package `emcee` (see documentation [here](https://emcee.readthedocs.io/).)
